@@ -4,6 +4,7 @@ require 'yaml/store'
 require 'ostruct'
 require 'date'
 
+# config/environment.rb
 
 require 'bundler/setup'
 Bundler.require
